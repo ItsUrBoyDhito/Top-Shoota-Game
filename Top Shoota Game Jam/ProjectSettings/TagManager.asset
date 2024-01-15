@@ -38,6 +38,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Bakrund
+    uniqueID: 1074137249
+    locked: 0
+  - name: UI
+    uniqueID: 2789736985
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
