@@ -6,6 +6,60 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/Rum 0.unity
+    guid: 524e2008d8d159a419cf9b2eb8394e03
+  - enabled: 1
+    path: Assets/Scenes/Rum 1.unity
+    guid: 111fc202b7ddb484fb7625bd9aa832cc
+  - enabled: 1
+    path: Assets/Scenes/Rum 2.unity
+    guid: af4e9309ecd2e4b4a987008d20f7eae0
+  - enabled: 1
+    path: Assets/Scenes/Rum 3.unity
+    guid: f3a10e00f73b0b849ab7e5000d711428
+  - enabled: 1
+    path: Assets/Scenes/Rum 4.unity
+    guid: 8b2562720ecc651459c6ef0ff27f0a4d
+  - enabled: 1
+    path: Assets/Scenes/Rum 5.unity
+    guid: 22d72a86aaae49e48949b5b69b950853
+  - enabled: 1
+    path: Assets/Scenes/Rum 6.unity
+    guid: b21d98e9a6ad40c42b47ffa487f9171b
+  - enabled: 1
+    path: Assets/Scenes/Rum 7.unity
+    guid: c3c8c974cabb5d447b5e71d0ce5f0012
+  - enabled: 1
+    path: Assets/Scenes/Rum 8.unity
+    guid: 8bc3348c8a75dd6469f214b0dd2f22c3
+  - enabled: 1
+    path: Assets/Scenes/Rum 9.unity
+    guid: 6d6b4980ab25cfd46aa694f9895588fa
+  - enabled: 1
+    path: Assets/Scenes/Rum 10.unity
+    guid: 066c86eeac7cbef4e81072616279c8b0
+  - enabled: 1
+    path: Assets/Scenes/Rum 11.unity
+    guid: d31c185c26b2b634797e9f17e1f97712
+  - enabled: 1
+    path: Assets/Scenes/Rum 12.unity
+    guid: 1360323613d11c942a32359cf461edf8
+  - enabled: 1
+    path: Assets/Scenes/Rum 13.unity
+    guid: 3023f221d74a4154ca28fe4a0d97c919
+  - enabled: 1
+    path: Assets/Scenes/Rum 14.unity
+    guid: c86d6f7cc3a9fb74fbcc3be71563dec7
+  - enabled: 1
+    path: Assets/Scenes/Rum 15.unity
+    guid: 0865db093a3e34f4abdad083cd0d8655
+  - enabled: 1
+    path: Assets/Scenes/Rum 16.unity
+    guid: 6a3b8b591ebea914f9b509e780667440
+  - enabled: 1
+    path: Assets/Scenes/FightScene.unity
+    guid: dc48cde09cbbbbe4ab784fb96f653645
+  - enabled: 1
+    path: Assets/Scenes/Rum 18.unity
+    guid: 3b508a5c167530741a1ae1fd351f8db1
   m_configObjects: {}
