@@ -56,4 +56,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Rum 16.unity
     guid: 6a3b8b591ebea914f9b509e780667440
+  - enabled: 1
+    path: Assets/Scenes/FightScene.unity
+    guid: dc48cde09cbbbbe4ab784fb96f653645
+  - enabled: 1
+    path: Assets/Scenes/Rum 18.unity
+    guid: 3b508a5c167530741a1ae1fd351f8db1
   m_configObjects: {}
